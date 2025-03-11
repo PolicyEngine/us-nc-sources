@@ -1,0 +1,61 @@
+﻿"Title: Marketplace Average Benchmark Premiums, 2014-2025 | KFF",
+Timeframe: 2025,
+Location,Average Benchmark Premium
+United States,$497 
+Alabama,$535 
+Alaska,"$1,045 "
+Arizona,$410 
+Arkansas,$458 
+California,$512 
+Colorado,$463 
+Connecticut,$693 
+Delaware,$534 
+District of Columbia,$578 
+Florida,$515 
+Georgia,$493 
+Hawaii,$493 
+Idaho,$436 
+Illinois,$474 
+Indiana,$382 
+Iowa,$429 
+Kansas,$513 
+Kentucky,$442 
+Louisiana,$524 
+Maine,$546 
+Maryland,$365 
+Massachusetts,$447 
+Michigan,$404 
+Minnesota,$363 
+Mississippi,$485 
+Missouri,$489 
+Montana,$554 
+Nebraska,$600 
+Nevada,$414 
+New Hampshire,$325 
+New Jersey,$492 
+New Mexico,$515 
+New York,$790 
+North Carolina,$507 
+North Dakota,$537 
+Ohio,$441 
+Oklahoma,$501 
+Oregon,$510 
+Pennsylvania,$461 
+Rhode Island,$425 
+South Carolina,$471 
+South Dakota,$619 
+Tennessee,$516 
+Texas,$489 
+Utah,$547 
+Vermont,"$1,277 "
+Virginia,$372 
+Washington,$434 
+West Virginia,$919 
+Wisconsin,$495 
+Wyoming,$871 
+,
+Notes,
+"Premiums were analyzed using the second-lowest cost silver (benchmark) premium for a 40-year-old in each county and weighted by county plan selections, including premiums for non-Essential Health Benefits. In some state-based marketplaces, the premium data for some years are at the rating area level or zip level and are mapped to counties before weighting by county plan selections.",
+,
+Sources,
+"KFF analysis of data from Healthcare.gov, state rate review websites, state plan finder tools, and state provided data, October 2024.",
