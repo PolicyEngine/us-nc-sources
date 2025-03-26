@@ -30,11 +30,11 @@ Source documents for North Carolina
 
 
 ### Subprograms
-- `Tax Rate`
-- `Child Deduction`
-- `Child Tax Credit`
-- `Itemized Deductions`
-- `Standard Deduction`
-- `Military Retirement Subtraction`
+- `tax_rate`
+- `child_deduction`
+- `child_tax_credit`
+- `itemized_deductions`
+- `standard_deduction`
+- `military_retirement_subtraction`
 
 This list can be expanded as new document types are added to the repository.
