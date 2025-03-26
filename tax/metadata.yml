@@ -1,3 +1,21 @@
-- file: 2023 D-400 Handwritten Version.pdf
-  url: https://www.ncdor.gov/2023-d-400-handwritten-version/open#page=2
+- file: "2023_D400_Individual_Income_Tax_Return.pdf"
+  url: "https://www.ncdor.gov/2023-d-400-handwritten-version/open"
   retrieved_on: 2025-01-17
+  programs:
+    - Income tax
+  effective_date: 2023-01-01
+  # Optional fields
+  subprograms:
+    - Tax Rate
+  description: "North Carolina Individual Income Tax Return form"
+
+- file: "2023_D400_Individual_Income_Tax_Return.pdf"
+  url: "https://www.ncdor.gov/taxes-forms/individual-income-tax/filing-topics/north-carolina-child-deduction"
+  retrieved_on: 2025-01-17
+  programs:
+    - Income tax
+  effective_date: 2017-01-01
+  # Optional fields
+  subprograms:
+    - Child deduction
+  description: "North Carolina Child Deduction Instructions"
