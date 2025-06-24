@@ -1,3 +1,92 @@
-- file: 2023 D-400 Handwritten Version.pdf
+- file: NC Child_Care_Centers_Rates_2018.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/R/Revised-8-16-Market_Rate_Centers_Eff-10-1-18.pdf?ver=2018-08-28-105655-863"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2018-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2018-19"
+- file: NC Child_Care_Centers_Rates_2022.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/C/Child_Care_Centers_Rates_2022.pdf?ver=1tlPYuEVmYXfXutOxVRMpQ%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2022-23"
+- file: NC Child_Care_Centers_Rates_2023.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/M/Market_Rates_Centers_Eff_10-1.pdf?ver=9w52alSPhmrmo0N9gGVMEw%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2023-24"
+-file: NC_Family_Child_Care_Homes_Rates_2018.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/R/Revised-8-16-Market_Rate_Homes_Eff-10-1-18.pdf?ver=2018-08-28-105655-957"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2018-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2018-19"
+- file: NC_Family_Child_Care_Homes_Rates_2022.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/F/Family_Child_Care_Homes_Rates_2022.pdf?ver=Gee-xAs7huqySOaKFyltqw%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2022-23"
+- file: NC_Family_Child_Care_Homes_Rates_2023.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/M/Mkt_Rates_Homes_eff_10-1.pdf?ver=baC5Yg7ZMrQ5fck2y9CcvA%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2023-24"
+- file: NC Child Care Policy Manual Chapter 1 - Subsidized Child Care - 2023.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/chapter-1-subsidized-child-care-assistance-4.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 1 - 2023"
+- file: NC Child Care Policy Manual Chapter 4 - Eligibility Determination - 2023.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/BLACK-Chapter-4-Application-eligibility-determination-and-documentation-04.02.2025.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 4 - 2023"
+- NC Child Care Policy Manual Chapter 7- Determining-Income-Eligibility-8_2024-BLACK.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/FINAL-Chapter-7-Family-definition-and-determining-income-eligibility-8_2024-BLACK.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 7 - 2023"
+- file:NC Child Care Policy Manual Chapter 8 - Parental Fees - 2023.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/chapter-8-parental-fees-7.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 8 - 2023"- file: 2023 D-400 Handwritten Version.pdf
   url: https://www.ncdor.gov/2023-d-400-handwritten-version/open#page=2
   retrieved_on: 2025-01-17

@@ -1,0 +1,126 @@
+- file: LIEAP Policy Manual ep-300-lieap-policy 10-1-2020.pdf
+  url: "https://policies-uat.ncdhhs.gov/wp-content/uploads/efs-ep-cn1-2020a1.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2020-10-01
+  # Optional fields
+  description: "NC LIEAP Policy Manual 2021"
+- file: LIEAP Policy Manual ep-300-lieap-policy 10-1-2021.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/ep-300-lieap-policy.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "NC LIEAP Policy Manual 2022"
+- file: LIEAP Policy Manual 2023 ep-300-12-1-22.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/ep-300-lieap-policy.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "NC LIEAP Policy Manual 2023"
+- file: LIEAP Policy Manual ep-300-lieap-policy 10-1-2024.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/EP-300_-10.1.2024.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "NC LIEAP Policy Manual 2025"
+- file: NC_LIEAP State Plan_2020.pdf
+  url: "https://stage.liheapch.acf.gov/sites/default/files//webfiles/docs/NC_Plan_2020.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2019-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2020"
+- file: LIEAP Policy Manual ep-300-lieap-policy 10-1-2021.pdf
+  url: "https://stage.liheapch.acf.gov/sites/default/files//webfiles/docs/NC_Plan_2021.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2020-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2021"
+- file: NC_LIEAP State Plan_2022.pdf
+  url: "https://stage.liheapch.acf.gov/sites/default/files//webfiles/docs/NC_Plan_2022.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2022"
+- file: NC_LIEAP State Plan_2023.pdf
+  url: "https://stage.liheapch.acf.gov/sites/default/files/webfiles/docs/2023/state-plans/NC_Plan_2023.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2023"
+- file: NC_LIEAP State Plan_2024.pdf
+  url: "https://liheapch.acf.gov/sites/default/files/webfiles/docs/2024/state-plans/NC_Plan_2024.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2024"
+- file: NC_LIEAP State Plan_2025.pdf
+  url: "https://stage.liheapch.acf.gov/docs/2025/state-plans/NC_Plan_2025.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "NC LIEAP State Plan 2025"
+- file: NC_BenefitMatrix_2022.docx
+  url: "https://liheapch.acf.hhs.gov/docs/2023/benefits-matricies/NC_BenefitMatrix_2023.docx"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "NC LIEAP Benefit Matrix 2022"
+- file: NC_BenefitMatrix_2023.docx
+  url: "https://liheapch.acf.hhs.gov/docs/2023/benefits-matricies/NC_BenefitMatrix_2023.docx"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "NC LIEAP Benefit Matrix 2023"
+- file: NC LIEAP Program Income Benefit Matrix 2024.pdf
+  url: "https://liheapch.acf.hhs.gov/docs/2024/benefits-matricies/NC_BenefitMatrix_2024.docx"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "NC LIEAP Benefit Matrix 2024"
+- file: NC LIEAP Program Income Benefit Matrix 2025.pdf
+  url: "https://liheapch.acf.gov/docs/2025/benefits-matricies/NC_BenefitMatrix_Heating_2025.pdf"
+  retrieved_on: 2025-06-19
+  programs:
+    - LIHEAP
+    - NC
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "NC LIEAP Benefit Matrix 2025"
