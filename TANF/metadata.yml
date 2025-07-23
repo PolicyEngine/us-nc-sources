@@ -1,0 +1,36 @@
+- file: 2019-2022 NC TANF State Plan_0.pdf
+  url: "https://www.ncdhhs.gov/2019-2022-tanf-state-plan"
+  retrieved_on: 2025-07-03
+  programs:
+    - TANF
+    - NC
+  effective_date: 2019-10-01
+  # Optional fields
+  description: "NC TANF State Plan 2019-2022"
+- file: 2022-2025 NC TANF State Plan Draft 10-21-22.pdf
+  url: "https://www.ncdhhs.gov/2022-2025-tanf-state-plan"
+  retrieved_on: 2025-07-03
+  programs:
+    - TANF
+    - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "NC TANF State Plan 2022-2025"
+- file: NC TANF Income - Budgeting wf-114_1-2-2024.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/wf-114_1-2-2024.pdf"
+  retrieved_on: 2025-07-03
+  programs:
+    - TANF
+    - NC
+  effective_date: 2024-01-01
+  # Optional fields
+  description: "NC TANF Income and Budgeting"
+- file: NC TANF Work Requirements wf118.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/wf118.pdf"
+  retrieved_on: 2025-07-03
+  programs:
+    - TANF
+    - NC
+  effective_date: 2017-11-01
+  # Optional fields
+  description: "NC TANF Work Requirements"
