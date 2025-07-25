@@ -1,0 +1,21 @@
+- file: Section8_Income_Limits.pdf
+  programs:
+    - NC
+  effective_date: 2023-10-01
+  description: "FY2024 Section 8 Income Limits"
+- file: State_CDCTC.pdf
+  programs:
+    - NC
+  description: "CDCTC by State"
+- file: State_EITC.pdf
+  programs:
+    - NC
+  description: "EITC by State"
+- file: State_Specfic_Age_Curve_ACA.pdf
+  programs:
+    - NC
+  description: "State Specific Age Curve Variations"
+- file: StateFundedPreK.pdf
+  programs:
+    - NC
+  description: "State of Preschool 2023"

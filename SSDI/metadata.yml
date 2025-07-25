@@ -1,0 +1,6 @@
+- file: SSDI.pdf
+  programs:
+    - SSDI
+    - NC
+  effective_date: 2025-01-01
+  description: "SSDI Substantial Gainful Activity Amounts 2025"
