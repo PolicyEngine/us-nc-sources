@@ -1,0 +1,6 @@
+- file: WIC_income_eligibility.pdf
+  programs:
+    - TANF
+    - NC
+  effective_date: 2024-07-01
+  description: "WIC Income Eligibility Tables 2024"

@@ -1,0 +1,6 @@
+- file: Medicaid_CHIP_Cost_Share.pdf
+  programs:
+    - Medicaid
+    - NC
+  effective_date: 2020-01-01
+  description: "Medicaid and CHIP Cost Share 2020"

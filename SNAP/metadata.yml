@@ -1,0 +1,22 @@
+- file: SNAP_BBCE.pdf
+  programs:
+    - SNAP
+    - NC
+  description: "SNAP Broad-Based Categorical Elgibility"
+- file: FY2025-Minimum-Allotment-SNAP.pdf
+  programs:
+    - SNAP
+    - NC
+  effective_date: 2024-10-01
+  description: "SNAP Minimum Allotment FY2025"
+- file: FY25-Maximum-Allotments-and-Deductions-SNAP.pdf
+  programs:
+    - SNAP
+    - NC
+  effective_date: 2024-10-01
+  description: "SNAP Maximum Allotment FY2025"
+- file: BBCE-States-Chart-Jan-2025.pdf
+  programs:
+    - SNAP
+    - NC
+  description: "SNAP Broad-Based Categorical Elgibility by State"
