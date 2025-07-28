@@ -1,0 +1,22 @@
+- file: Income Exclusions for SSI Program.pdf
+  programs:
+    - SSI
+    - NC
+  description: "Income Exclusions for SSI Program"
+- file: SSI Federal Payment Amounts for 2025.pdf
+  programs:
+    - SSI
+    - NC
+  effective_date: 2025-01-01
+  description: "SSI Federal Payment Amounts 2025"
+- file: SSI_resource_limit.pdf
+  programs:
+    - SSI
+    - NC
+  description: "SSI Resource Limits"
+- file: Student Earned Income Exclusion for SSI.pdf
+  programs:
+    - SSI
+    - NC
+  effective_date: 2025-01-01
+  description: "Student Earned Income Exclusion For SSI"

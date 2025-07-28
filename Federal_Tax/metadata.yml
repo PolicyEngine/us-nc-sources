@@ -1,0 +1,25 @@
+- file: CDCTC_form.pdf
+  programs:
+    - Federal_Tax
+    - NC
+  description: "2024 Federal CDCTC form"
+- file: CDCTC_instructions.pdf
+  programs:
+    - Federal_Tax
+    - NC
+  description: "2024 Federal CDCTC instructions"
+- file: Federal_CTC.pdf
+  programs:
+    - Federal_Tax
+    - NC
+  description: "2024 Federal CTC form"
+- file: Federal_EITC.pdf
+  programs:
+    - Federal_Tax
+    - NC
+  description: "2024 Federal EITC form"
+- file: federal_income_tax.pdf
+  programs:
+    - Federal_Tax
+    - NC
+  description: "2025 Income Tax Inflation Updates"
